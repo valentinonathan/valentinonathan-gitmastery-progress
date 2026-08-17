@@ -131,5 +131,14 @@
       "The origin remote does not point to your fork!"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1786985622.288609,
+    "completed_at": 1786985630.411291,
+    "comments": [
+      "The origin remote does not point to your fork!"
+    ],
+    "status": "Incomplete"
   }
 ]
